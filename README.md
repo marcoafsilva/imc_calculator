@@ -7,4 +7,4 @@
 -   Criar um classe Pessoa com os atributos (peso, altura e gênero), criar métodos para calcular IMC e classificar;
 -   Refatorar o código do aplicativo para utilizar a classe Pessoa;
 -   Aplicar uma escala de cores para o resultado da classificação do IMC;
--   Aumentar o texto do resultado do IMC (número) e também colocar em negrito.
+-   (OK) Aumentar o texto do resultado do IMC (número) e também colocar em negrito.
